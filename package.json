@@ -1,0 +1,30 @@
+{
+  "name": "xstate-todo",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "@xstate/vue": "^0.4.0",
+    "todomvc-app-css": "^2.3.0",
+    "vue": "^3.0.5",
+    "vue-router": "^4.0.4",
+    "xstate": "^4.16.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.1.4",
+    "@vue/compiler-sfc": "^3.0.5",
+    "@vue/eslint-config-standard": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.20.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-standard": "^5.0.0",
+    "eslint-plugin-vue": "^7.6.0",
+    "sass": "^1.32.7",
+    "vite": "^2.0.0"
+  }
+}
