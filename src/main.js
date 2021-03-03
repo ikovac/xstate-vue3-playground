@@ -9,7 +9,8 @@ const router = createRouter({
   routes: [
     { path: '/', component: Home },
     { path: '/lightswitch', component: () => import('./Views/LightSwitch/index.vue') },
-    { path: '/webshop', component: () => import('./Views/WebShop/index.vue') }
+    { path: '/webshop', component: () => import('./Views/WebShop/index.vue') },
+    { path: '/todo', component: () => import('./Views/Todo/index.vue') }
   ]
 });
 

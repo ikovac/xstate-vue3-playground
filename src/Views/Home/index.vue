@@ -4,6 +4,7 @@
     <ul class="links">
       <li><router-link to="/lightswitch">LightSwitch</router-link></li>
       <li><router-link to="/webshop">WebShop</router-link></li>
+      <li><router-link to="/todo">Todo</router-link></li>
     </ul>
   </div>
 </template>

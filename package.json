@@ -9,6 +9,7 @@
   "dependencies": {
     "@xstate/vue": "^0.4.0",
     "todomvc-app-css": "^2.3.0",
+    "uuid-v4": "^0.1.0",
     "vue": "^3.0.5",
     "vue-router": "^4.0.4",
     "xstate": "^4.16.2"
